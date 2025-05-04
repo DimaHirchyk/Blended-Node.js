@@ -22,5 +22,29 @@
     "price": "221.67",
     "category": "Electronics",
     "description": "New pink Ball with ergonomic design for trivial comfort"
+  },
+  {
+    "name": "Unbranded Wooden Salad",
+    "price": "274.39",
+    "category": "Beauty",
+    "description": "The sleek and difficult Chair comes with plum LED lighting for smart functionality"
+  },
+  {
+    "name": "Awesome Wooden Car",
+    "price": "54.79",
+    "category": "Automotive",
+    "description": "Stylish Table designed to make you stand out with fine looks"
+  },
+  {
+    "name": "Incredible Steel Keyboard",
+    "price": "603.39",
+    "category": "Health",
+    "description": "The Sustainable executive encoding Shirt offers reliable performance and shadowy design"
+  },
+  {
+    "name": "Refined Concrete Gloves",
+    "price": "445.90",
+    "category": "Computers",
+    "description": "Introducing the Togo-inspired Fish, blending quarterly style with local craftsmanship"
   }
 ]

@@ -1,4 +1,4 @@
-import { access, constants } from 'node:fs';
+import { access, constants } from 'node:fs/promises';
 import { PATH_FILES_DIR } from '../constants/products.js';
 import { readProducts } from '../utils/readProducts.js';
 import fs from 'node:fs/promises';
